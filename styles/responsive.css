@@ -7,19 +7,24 @@
     h2{
         font-size: 20px;
     }
+    h1{
+        font-size: 20px;
+    }
     .clearing-institute-text {
         overflow: hidden;
         text-overflow: ellipsis;
         display: -webkit-box;
         -webkit-line-clamp: 5;
         -webkit-box-orient: vertical;
-
     }
-
-
 }
 
 @media only screen and (min-width: 641px) and (max-width: 961px) {
+    h1{
+        font-size: 25px;
+        margin-top: -130px;
+      
+    }
     h2 {
         font-size: 30px;
     }
