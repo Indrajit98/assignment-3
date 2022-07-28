@@ -1,0 +1,46 @@
+
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+    *{
+       
+        font-size: 14px;
+    }
+    h2{
+        font-size: 20px;
+    }
+    .clearing-institute-text {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-line-clamp: 5;
+        -webkit-box-orient: vertical;
+
+    }
+
+
+}
+
+
+
+@media only screen and (min-width: 641px) and (max-width: 961px) {
+    h2 {
+        font-size: 30px;
+    }
+
+    /* .clearing-institute-text {
+        height: 145px;
+        width: 100%;
+        overflow: hidden;
+        font-weight: 600;
+
+    } */
+
+    .clearing-institute-text {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-line-clamp: 5;
+        -webkit-box-orient: vertical;
+
+    }
+
+}

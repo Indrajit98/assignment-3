@@ -1,0 +1,24 @@
+/* basic setup  */
+*{
+    font-family: Poppins;
+    font-size: 16px;
+}
+section{
+    padding: 50px 0;
+}
+h1{
+    font-size:40px;
+    font-weight: 600;
+}
+h2{
+    font-size: 45px;
+    font-weight: 600;
+    color: #1D1D1D;
+}
+h3{
+    color: #4A4A4A;
+    line-height: 35px;
+}
+
+
+
