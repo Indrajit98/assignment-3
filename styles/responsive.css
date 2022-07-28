@@ -10,6 +10,9 @@
     h1{
         font-size: 20px;
     }
+    .course-sm-img{
+        width: 100%;
+    }
     .clearing-institute-text {
         overflow: hidden;
         text-overflow: ellipsis;
